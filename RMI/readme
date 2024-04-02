@@ -1,1 +1,24 @@
+Task Management System using Java RMI
+This is a simple Task Management System implemented using Java RMI (Remote Method Invocation).
+It allows users to add new tasks to the list, delete existing tasks, and retrieve the complete list of tasks.
 
+Prerequisites
+Java Development Kit (JDK) installed on your machine.
+Basic understanding of Java RMI.
+
+Getting Started
+1.Download rar file and extract
+2.Open project with preferred IDE
+3.Compile code and Run the server then the client applications
+
+Testing the Application
+Once the server and client are running, you can test the application by performing the following actions:
+Add a New Task: In the client application, choose option 1 to add a new task. Follow the prompts to enter the task details.
+Delete an Existing Task: In the client application, choose option 2 to delete an existing task. Follow the prompts to enter the index of the task to delete.
+Retrieve the List of Tasks: In the client application, choose option 3 to retrieve the complete list of tasks.
+Quit the Application: In the client application, choose option 4 to quit the application.
+
+Additional Notes
+Make sure that the RMI registry is running before starting the server application.
+Ensure that the server and client are running on the same machine or reachable over the network.
+You can modify the server and client code to add more features or customize the behavior according to your requirements.

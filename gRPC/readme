@@ -1,1 +1,17 @@
+gRPC Messaging Service
+This is a simple gRPC messaging service that allows users to send text messages to a specified recipient and retrieve messages received for a given user.
 
+Prerequisites
+Java Development Kit (JDK) installed on your machine.
+Basic understanding of gRPC.
+
+Getting Started
+1.Download rar file and extract
+2.Open project with preferred IDE
+3.Run the Server and Client applications
+
+Testing the Application
+Once the server and client are running, you can test the application by performing the following actions:
+1.Provide a name to connect to the chat after which a list of connected users will show up
+2.Send a message to another connected user with the command [name]:[message]
+3.exit the chat by typing exit

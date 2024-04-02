@@ -1,1 +1,21 @@
+Socket Chat Application
+This is a simple Socket-based chat application that allows users to send and receive text messages in a common chat room.
 
+Prerequisites
+Java Development Kit (JDK) installed on your machine.
+Basic understanding of Socket programming.
+
+Getting Started
+1.Download rar file and extract
+2.Open project with preferred IDE
+3.Run the Server and Client applications
+
+Testing the Application
+Once the server and client are running, you can test the application by performing the following actions:
+Send Messages: In the client applications, type messages in the terminal and press Enter to send them to the chat room.
+Receive Messages: In the client applications, observe the messages sent by other users appearing in the terminal.
+Quit the Application: In any client application, type /quit and press Enter to quit the chat room.
+
+Additional Notes
+Make sure that the server and client applications are running on the same machine or reachable over the network.
+You can customize the server address and port in the ChatClient.java file if needed.
